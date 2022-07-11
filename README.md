@@ -13,4 +13,4 @@ I'm graphic designer & developer (amateur).
 - [X] Design: Adobe Photoshop / `(sometimes krita)`
 
 ##### Projects:
-- [X] Owner [@planeta gier](https://discord.gg/planetagierek)
+- [X] Owner [@villagerowo](https://discord.gg/villagerowo)
